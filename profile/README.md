@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello
+
+We are a small amateur GameDev studio, that wants to create it's own games.
+
+🎮 Currently working on 2.5D game in Unity. 🎮
 
 <!--
 
